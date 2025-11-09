@@ -29,7 +29,7 @@ export function Footer() {
                         <span
                             style={{
                                 fontFamily: "Archivo Black",
-                                color: "white",
+                                color: "black",
                             }}
                             className="text-[1rem]"
                         >
