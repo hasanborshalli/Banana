@@ -1,4 +1,3 @@
-import React from 'react';
 import { BananaIcon } from 'lucide-react';
 export function Hero() {
   return <div className="w-full bg-yellow-400 py-20 px-4 md:px-8 flex flex-col items-center justify-center text-center">
